@@ -1,0 +1,82 @@
+country,province,total_customers,total_number_of_orders,total_amount_spent
+United States,California,483,1177,102217.410
+United States,Florida,184,368,32965.340
+United States,New York,151,321,27067.840
+United States,New Jersey,118,271,20441.100
+United States,Texas,113,229,17158.120
+United States,Pennsylvania,100,206,13566.790
+United States,Arizona,62,149,12866.970
+United States,Washington,50,153,12211.950
+United States,Michigan,46,123,11653.060
+United States,Illinois,66,148,11555.780
+Canada,Ontario,39,57,8218.640
+United States,Colorado,34,75,7174.170
+United States,Utah,35,73,6850.410
+United States,Nevada,38,81,6819.220
+United States,Oregon,34,76,6730.210
+United States,North Carolina,37,64,6675.510
+United States,Ohio,33,79,6350.160
+United States,South Carolina,17,61,5977.650
+United States,Virginia,26,50,5071.330
+United States,Missouri,25,64,5035.250
+United States,Maryland,20,46,4939.550
+United States,Wisconsin,19,51,4625.070
+United States,Georgia,24,52,4519.510
+United States,Massachusetts,35,64,3944.590
+Ireland,Dublin,6,21,3000.610
+United States,Tennessee,22,45,2983.440
+United States,Idaho,10,30,2972.380
+United States,Oklahoma,12,25,2969.820
+United States,Kentucky,14,34,2947.290
+United States,Louisiana,19,43,2852.800
+Canada,British Columbia,13,25,2835.150
+United States,Connecticut,17,38,2813.770
+United States,New Mexico,12,30,2518.680
+United States,Kansas,10,27,2472.890
+United States,Hawaii,17,24,2362.470
+United States,Wyoming,4,19,2110.410
+United States,Delaware,6,20,1737.600
+United States,Minnesota,12,19,1685.890
+United States,Arkansas,8,18,1507.760
+United States,Montana,7,15,1424.230
+United Kingdom,,8,12,1269.200
+United States,Maine,7,11,1232.770
+Canada,Alberta,6,10,1025.110
+Canada,Nova Scotia,2,8,1014.330
+United States,Iowa,7,15,1001.740
+United States,Indiana,11,16,950.360
+United States,New Hampshire,6,15,918.750
+United States,Nebraska,6,10,908.950
+Iceland,,1,5,878.060
+United States,Rhode Island,7,11,756.110
+Canada,Quebec,7,8,724.480
+United States,Alaska,5,7,647.840
+United States,Alabama,6,8,580.420
+Mexico,Oaxaca,1,6,548.480
+United States,West Virginia,2,7,524.870
+United States,South Dakota,2,4,523.630
+United States,Mississippi,5,6,408.580
+United States,Guam,1,2,374.340
+United Kingdom,England,2,2,306.620
+Switzerland,,2,3,294.980
+Australia,Northern Territory,1,2,291.050
+Australia,Queensland,1,2,288.650
+United States,Puerto Rico,1,3,263.970
+New Zealand,Auckland,1,1,219.970
+Germany,,2,2,211.640
+Ireland,Monaghan,1,1,189.970
+United States,District of Columbia,2,3,165.980
+United States,Northern Mariana Islands,1,2,165.970
+Australia,Western Australia,1,1,154.980
+Ethiopia,,1,1,141.280
+United States,Armed Forces Europe,1,1,120.000
+Singapore,,1,1,94.990
+Denmark,,1,1,89.990
+Mexico,Quintana Roo,1,1,81.890
+United States,Vermont,1,1,64.990
+Italy,Modena,1,1,45.990
+United States,North Dakota,1,1,0.000
+Australia,Victoria,1,1,0.000
+United Kingdom,bucks,1,1,0.000
+France,provence-alpes-cote d'azur,1,1,0.000
+Indonesia,Bali,1,1,0.000
