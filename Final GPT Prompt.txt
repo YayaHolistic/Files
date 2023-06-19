@@ -1,0 +1,749 @@
+There are two big risks that exist in business. The first is the execution risk. The second is the idea risk. Now you could maybe make an argument for a third being you know environmental risk regulatory risk things like that but I would say big picture is does the idea fundamentally work; is it going to be a good idea, or am I going to be able to execute the idea itself. It is important to appropriately measure risk. My issue was that I overestimated the payoff for a risk and underestimate the cost. Also, I overestimated the likelihood of success I was going to have, while underestimating the risk that I will fail. 
+Jeff Bezos said “outsized returns often come from betting against conventional wisdom, and conventional wisdom is usually right. Given a 10 percent chance of 100 times payoff, you should take that bet every time. But you're still going to be wrong 9 times out of 10. We all know that if you swing for the fences, you're going to strike out a lot, but if you're also going to hit some home runs. The difference between baseball and business, however, is that baseball has a truncated outcome distribution. When you swing, no matter how well you connect with the ball, the most runs you can get is four. In business, every once in a while, when you step up to the plate, you can score a thousand runs. This long-tailed distribution of returns is why it's important to be bold. Big winners pay for so many experiments”.
+There are two big costs when you're making these risks. One is you've got the money and things like that, but I think the biggest cost is time.
+Portfolio theory, for example; venture capital (VC’s). Let's say they take 50 companies on and they're betting the fact that one of those 50 companies is going to 100x, and pretty much carry the return to the entire portfolio. As for the vast majority of the other ones, they will either go out of business or basically not really do anything spectacular. And for the VC or the investor, it makes sense to take this approach because they're going to get very good returns using this this method. Whereas, if you are one of the 49 founders who has pretty much all of their net worth invest in this ‘thing’, and it takes five years of your life away to only fail, it can be harder to swallow. That is why it is important to value risk accordingly.
+
+I used to say that “I am not fixated on making money, because I just want to do something really big and really cool, and hopefully the money would follow”. Not realizing, there is a graveyard full of people who went big and struck out. So now I tend to be more money focused and money driven, because I think that the accumulation of money will allow me to do really cool things later on in my life. Now, I understand that I am probably going to fail many times before I am successful. And recently, I’ve had to face one of hardest questions in entrepreneurship, and this is when do I push or when do I pivot? And this was a difficult question to face, because I didn’t know whether it's me or the idea. I read a statistic that many founders of great business have abandoned their ideas within six inches from hitting gold. And they just needed a little push to have that breakthrough. And most people just don’t know how to push at all. As a businessman, I prefer to only go after ideas that I believe will have virtually no risk of not being ideas that people want, like health supplements. And this method leaves only me as the variable; the execution risk that it can be done well. If I had any advice for newer entrepreneurs, I think they should go after “boring businesses” that already have established needs. This allows them to do is hone their skills at business, because you know if it doesn't work it's only you.
+I think there's three big questions that are really dichotomies that you have to manage as an entrepreneur. One is when to push in when to pivot, the Second is how much do I consume versus how much do I invest, and the Third is the balance between how much do you delegate to other people versus how much do I do. I was going after immediate satisfaction, only to realize that I may reach the end of my life to never have enjoyed anything. 
+I didn’t want to admit, that as a new entrepreneur, I suck at business. And now I know, that it’s okay to suck. I want to be in the top one percent, which means I have to beat 99 other people out of 100 in order to be in the top one percent. 
+
+When I think of what would be required to be number one in the world at a thing, I’d say you'd have to have the natural proclivity, a tremendous amount of skill, and you'd have to be lucky. When I say luck, think of Bezos and Elon, they’ve had virtually limitless access to capita. They can basically raise money endlessly to fund these risks. The equation that Bezos said which “is imagine you go to Vegas casino and there's a there's a table that has a 10 chance of winning but you get 100 times payout when you, and if you can play the game on an unlimited time horizon, then you absolutely should just play as played as many times as humanly possible”. But most of us do not have unlimited spins. How long does it take to test the idea before moving on. I have the perspective that all of the wealthiest people in the world eliminate risk, they control risk. They figure out ways to play the game, and develop new ways where they cannot lose. And I believe leverage a massive audience or niche is a good way to mitigate risk, especially if you do not have a ton of capital.  
+The richest people control risk, and only play games where if they wait, they win. And for those who just want to “go big or go home” will most likely go home more than they go big. I tend to go with the highest likelihood bet. Because the bets that are set up this way are just an execution risk business, and I can I can pay that risk down in other ways. And I want to be clear, I am aware that nothing’s guaranteed, but by applying this method I can virtually guarantee the outcome. The goal is to string these “virtually guaranteed” upsides in my favor for a long enough period to let compounding work. Because compounding on a long enough time horizon creates the outsize return. The idea is how can I play and get as many win’s in a row, and as few loses as possible, for a long enough time horizon to create the outsized return. While living a pretty cool and less stressful life.
+Right now, not having anything to show for myself has been hard on my ego and self-esteem. Like “is it me or is it the idea or product?”. But now, after looking at my analytics, I know that I can significantly lower risk. It’s funny because I’ve always thought on a risk-adjusted basis, but I never applied it to business. And I tend to focus on the negative assumptions by asking if everything were to go wrong, will I be alright? If by knowing that I can lower risks and still win, then I see it as an opportunity worth pursuing. Personally, I like this approach because it gives me room to be pleasantly surprised and exceed expectations. And moving forward, I believe that we can virtually eliminate execution risk, and since we have proof of concept then we don’t have to worry about idea risk. We are only going after the things that we know people want, and then leveraging risk in our favor. 
+Playing the game using a risk-adjusted basis, you can get to the 100x very quickly. And you can do it with limited downside knowing that you've controlled for the idea risk and only have to focused on the execution risk, which is yourself. 
+
+
+I didn’t have an adequate grasp on the difference between gross and net margin. Now that I understand our numbers and analytics, I have discovered functional ways to save the business.
+
+Gross margin is what the direct cost of fulfilling your goods or services. The equation is the revenue, how much money you're making, minus the cost of goods sold (COGS)
+
+Cost of goods sold for a service business is just the cost of one additional unit.
+
+Your net margin is you end up taking home. The gross margin is the one that begets, that creates, the net margin. And this is what I realized needs to be fixed.
+
+So, my revenue minus COGS. Example: let's say we're selling a service for $60 per hour in your business and your cost of goods sold let's say is $20. In other words, you're paying somebody $20 for the $60 thing, and you think that sounds good because there's $40 left over for me. this makes sense right wrong So, let's just say simply here $60 is what you're charging $20 is what it costs, and $40 is what is left over. Now what you do to figure out your margins is you take those 40 dollars, what's left over, divided by the 60 of revenue which is what you got gross and what that does is it gets 66 percent. That's the gross margin.
+
+The thing is each incremental gross margin point is enormous, and so let me show you the difference. So let's say at the end of the year you're running a business that runs on 66 gross margins. And let's say at the very end of the year, now we're in the net margin category, you end up with 12 percent margins. Most brick-and-mortar businesses run around 12 percent margins. If you're at 12 percent margins, then you’re failing and you need to be at 80 percent. Most people think 80 percent isn’t much different than 66 percent, and they’re wrong.
+
+If you bumped your margins up to 80 percent, what happens at the end of the year? That’s 14 percent, so what this does is give you a 26 percent net margin at the year. Meaning, you more than doubled how much you make. Now, I'll show you the difference between 80, 90, 95,and 100.
+
+So if 80 percent gross margin is what you need, then there's two ways you can do it. You can increase your margin by decreasing your COGS. The second way is by increasing how much you charge. Let's say instead of 60, and we have this 20, how do we get 80 percent loafed over? If we have a $20 cost, this means that you'd have to charge a hundred dollars for your $20 thing to have an 80 percent margin. 
+
+This is important because you have to pay for everything else in the business and have enough money to market, to acquire more customers, and you need enough money to profit. I realized that all of the successful businesses in the world are not ruuning 80 percent margins, but they're running 99 percent gross margins. If you think 99 is only 19 more than 80, then you’re wrong. It’s much more than that. 
+The difference between 80% margins 90% is that 90 is twice as profitable because it's half the cost. I took that $20 COG and made it $10, and that's the difference. The difference between 90% and 95% gross margins, again, is twice as profitable. And this means that you can sell twice as many people for the same cost. That is the magic, and that is how you scale. This is how you get something that's enormously profitable, and allows you to acquire more customers, and has tons of profit kicking off every single month.
+This is where a lot of entrepreneurs, like myself, get messed up because they feel bad about charging a lot for their services or a lot for their products. But if you do not do this you will make no profit and you will not be able to scale. You will not help more people unless you get these margins. 
+
+So if I have 80% left over that means, and $20 is my cost of acquisition that means that $16 is what I have left to market. And after you pay your marketing, you still have the rest of your costs to pay. i.e rent, payroll, and all of the non-essential stuff like software and other costs of doing business. That comes out of just the remainder. So your margins have to be over 80%
+Ideally you want to push from 80 to 90, or 90 to 95, because at each of these increments you double the productivity of the business. So the two ways you can do it, just as a quick recap, to increase your gross margin is to decrease the cost and you can increase the price, and that is how you can increase your gross margin percentage. 
+
+
+
+
+
+Olivers Story, and his Tik Tok strategy:
+
+"This is Oliver and his Mood Chocolate business is on track to do 11 million dollars in sales this year and the crazy part is he started the company just 18 months ago with zero followers on social media. This year we're gonna do over 10 million dollars in Revenue. How old are you? I'm 21. In this video we sat down and talked about his secret Tick Tock strategy that's going to make him over 4.5 million dollars in profit this year alone. For the next week we were ripping the responding to comment videos and you know that month we did close to seven figure. He also told us why he chose to start a chocolate company even though he had no experience in the industry and how he thinks anyone can do the same. It wasn't like oh like I'm obsessed with sex chocolate like no it was like I know that I could Market the [__] out of this. This video shares the full Playbook on how to use tick tock to build an eight-figure business from scratch."
+
+"So sex chocolate, it's safe to say that that is a very odd business to start so how in the world does someone decide that this is the product that they're gonna go all in on. Most people start off with you know trying to build the product and Brandon and they try to figure out how to Market it whereas I have a very kind of clear understanding and background of tick tock and you know viral marketing and so I kind of reverse engineered it where I was like how do I build a product that's going to go viral that lends itself to organically going battle that was like the Genesis and the thesis of tops. A lot of people are like yo what sex chocolate what are you like obsessed with sex what are you obsessed with chocolate and like you know what I certainly like both definitely not your passion no no no no I can't I do like both but you know it wasn't it wasn't like oh like I'm obsessed with sex chocolate like no I was like I know that I can Market the [] out of this I know that I could blow this thing up on social media and ultimately um make this thing pop and we've done just that little secret for you we actually saw a similar product on Tick Tock that was the Genesis of tops we saw a similar product and some random chick posted a tick tock about it had 8 million views 2 million likes I go to do research on the brand they're not being sold online they're packaging and branding sucks they have no social media presence and it's like holy [] there's massive opportunity here clearly it can go viral clearly like it's an intrinsically viral product if somebody with the right background came in to execute they could make millions and millions of dollars and I decided that that person was going to be me."
+
+"He saw that the product naturally got people's attention on Tick Tock because it was controversial and then realized that the only competitor wasn't even selling on the internet. He then realized his unique skill set of tick tock marketing and online sales would give him an advantage. He saw a gap in the market and he failed it. This is really important for aspiring entrepreneurs to understand before choosing Which business to start. Do not look for the best business to start in 2023 instead ask yourself are you the best person for this business. Odds are you have specific knowledge a specific skill deal or a specific network of relationships that will give you an unfair advantage in that market. If you want help identifying the best business for you personally to start we have a free tool that will help you generate personalized business ideas based on your advantages. I'll leave that in the first link in the description4. "Below okay so he saw the opportunity in the market but he's never made chocolate before how did he actually go about getting the product made. It's crazy except everything is at your fingertips the reality is I looked up chocolate co-manufacturer on Google and then I scraped every single website for the first 20 or 30 pages and I just was just ringing phones calling people pitching myself asking what the moq was asking you know uh minimum order quantity we didn't reinvent the wheel I'm not a scientist I'm not a chemist basically we took the most popular and effective natural supplements they usually come in a pill in powder format and repackaged it and turned it into an incredibly luxury experience that was destigmatized that wasn't taboo and something that people could be proud to share with their partner from idea through this product like just the very first time like we should try this to actually having your first like sellable product right how long was that like 11 months 11 months 11 months that's like r d basically."
+
+"So it really is that simple he just Googled chocolate manufacturer and started calling dozens and dozens of people until he found one that was willing to fulfill his order and as far as the recipe for the chocolate goes he didn't reinvent the wheel he just got a standard chocolate recipe and added the standard supplements for this industry combined them in voila and one thing to note is he doesn't even have a personal Warehouse he just has the chocolate manufacturer shipped the product to a third-party Logistic Company who then packages and ships the products to each individual customer okay so he has the product down and the product is made but how did he actually go about selling the product pay extra close attention to this because this Tick Tock strategy is genius."
+
+"It was intentional from the start again we did not create this brand and be like okay like how do we Market it we're like yo we know how to Market it we know how to get eyeballs we know how to get you know to drive customers the viral video is not what drives the majority of the sales it's the follow-up video that drives the true conversions so like what I optimize for is a viral video right to get as many views and top of funnel brand awareness as possible but the sales come from video two three four once you have the viral video you want to respond to comments from that OG viral videos with new tick tocks so the Creator posted video it goes viral right then the Creator makes responding to comment videos responding to comments from that original viral video and their new videos and when you respond to comments from the original viral video it actually retargets all of the initial viewers from that original viral if it's from your account yes really yes wow so it's like video two three four five six seven eight you can make as many as you want it's free retargeting wow and in those retargeting videos is when you [] sell the [] out of the product ah and you address pain points you tell them where to shop you tell them to go to your store and buy it right now before we sell out like that is where like you're pushing conversion but don't get it twisted you first need the viral video wand in order to like get to that point so you should be optimizing for Vitality once you hit virality video two through you know 10 or 20 is when the bulk of the sales will come I had a video that did over 30 million views that video may be generated forty thousand dollars in sales that day itself itself okay the follow-up videos generated 130 000 the next day and for the next week we were ripping the responding to comment videos and you know that month we did close to seven figure."
+
+"Okay so the idea is to make8. "Dozens of videos until one video goes viral AKA it gets a lot of views then once one video hits he uses a tick tock feature called respond to comment to make a new video that then gets shown to all the people who saw the initial viral video aka retargeting the respond to comments video is when you actually tackle objections add call to actions and ultimately try to sell the product and convert people into customers and since he chose a product that was proven to go viral from the start it's just a matter of making dozens of videos until one hits. I want to break down just how intentional he was with this business so he chose a product he knew could go viral because it had gone viral before he then uses tick tock's algorithm to test which kind of videos go viral once they do he has a retargeting strategy using the respond to comments feature to then finally convert those views into paying customers this is truly genius because it's intentional from the start there was no luck involved this was his exact plan and it's working perfectly but making a video that goes viral is easier said than done who's making these viral videos and what's their process."
+
+"I wasn't like super picky like oh you need to be like a super high performing Creator like or like you need to have X background or whatever it's like no do you have all your limbs and do you have a phone like like let's work you're gonna name the account some variation of tabs some variation of tops chocolate Okay Chocolate Company tops chocolate coat tabs USA the viral chocolate at this point we have hundreds of accounts they have full creative control now what I will say is that like when a video goes like viral I send it out to all of my creators it's like yo you guys all need to remake this take notes remake this because if you see a viral hit remake that [__] chances are it will go viral again and I don't know which one's gonna hit it might be the prankster it might be the grandparents it might be uh the model it might be the only fans thought he I don't know right like I I don't I don't know I can't tell you which one's gonna hit but I know that inevitably if I have enough content going out every single day one is going to hit and all I need is one to hit in order to drive serious impact and sales it's generated millions of dollars in Revenue my thesis is that if you have enough scale you will win if I wanted to do this for my company right I would go to Twitter what do I search ugc Talk content ugc and then just look for people who are there there will be thousand so simple and he basically hired anyone from high schoolers to grandparents for very cheap next they were each required to make one video per day on their tabs branded account they had full creative control and could decide to make any video that they wanted now he has dozens of people creating content for him every single day it's just a matter of time until one hits this style of content is called ugc or user generated content and it is the most affordable type of content because you're not paying some celebrity influencer thousands of dollars to make a post just everyday people working for everyday prices even goes into how he set up an affiliate program where he only pays people for the sales that they generate AKA free marketing he goes into depth and detail on this entire process in the full podcast which I highly recommend you guys go watch it is just two hour hours of extremely extremely valuable content I'll leave that link in the description below okay now that he has the product and is getting sales I'm curious on how he's managing all this from creating the online store to managing all those influencers what software and tools it's using to make this possible."
+
+"Okay I11. "Mean so clavio for email okay like right off the bat same right uh I have an amazing amazing text messaging platform that I use that 99 of people don't know about it's called one text okay uh and they are revolutionizing the text message you get what they do is they allow people to buy your product within the text message so instead of hey like hey customer here's a link to finish your purchase it's hey customer this is a real human being press one if you want to buy like you're like you abandon this product press one if you want to buy it and then they have to put in their credit card information once but now their their card is vaulted within the one text ecosystem which means that any other Merchant that uses one text and has an overlap doesn't need to even ask for their credit card again they can literally click one and they can buy that introduction I'll introduce you one quick upsells I mentioned that earlier for the Post purchase upsells um I love those guys Trello yeah I use trailer for organization and obviously slack um like my whole entire business my whole entire business is run off of stock I love stock but in terms of other like interesting apps like social snowball huge shout out to social snow um basically like they streamline the whole entire affiliate and influencer uh process."
+
+"Okay so those are the tools that Oliver is using to achieve this level of success and I highly recommend everybody use these tools if you aren't already they are super helpful Oliver was able to create an eight-figure business at just 21 years old so is he just some sort of Genius did he get lucky or is it something else. What I really believe is that it's not about intelligence it's about experience the more experience you have in the space the sharper you become and that leads to training like your intuition like your subconscious right so it's not like like you and you like you and me like we're able to like look at a situation and it's not that you're smarter than me she said you have pattern recognition you've seen that you've seen that situation 800 other times so you know exactly how to navigate you know exactly what moves you need to make in order to cross that Finish Line whereas for me I'm a newbie I'm like wait hold on a second I get I fall into this mousetrap here I step on this land mine here I'm not able to get from point A to B but it's not because you were smarter than me it's simply because you had better simply because you had more experience which leads to more intuition and a wherewithal on how to on how to basically move um and so my biggest piece of advice for people is to get that experience to learn those skills and you can't cheat that there is no shortcut you need to fail before like times like I had like 20 other Adventures a lot of them were massive failures right um a lot of them were ridiculous A lot of them are ridiculous Concepts you know but that's part of the game and the only way to hit big is to have all of those smaller experiences and each one you pull something a learning out of a lesson out of and then all of a sudden like things start to clicks things start To come together and then one day you wake up like you know one day one day I wake up and I'm 21 years old and I'm worth millions and millions of dollars and it's a holy [__] so that is the story of how Oliver went from zero to 11 million dollars in just 18 months with Tick Tock the key takeaway you need to take from this video is that he started the business that was right for him he was self-aware and asked himself okay what am I good at AKA what are my advantages and for him it was viral Tick Tock marketing so he started there and then found a product that matched his skill sets this is really important for aspiring entrepreneurs to understand before they choose which business to start that's what Oliver did and it is just super inspiring to see again if you are looking to start your own business I highly recommend you go watch that video he doesn't leave anything out and we go into extreme detail on how he's actually making this possible but that's gonna do it for today's video I hope you learned something if you did leave a like on the video for me other than that I hope you have a wonderful day and I will see you in the next one.
+
+
+Mindset and Market Saturation: The speaker emphasizes that the market is not capped; instead, the entrepreneur's mindset is capped. He encourages entrepreneurs to expand their mindset and explore new avenues for customer acquisition within their current niche or space.
+
+Marketing Framework: He introduces a marketing framework that includes the method (e.g., running paid ads, making content, doing outreach, getting referrals, getting affiliates), the platforms (e.g., Facebook, phones, email, Hulu, YouTube, Google), the media on the platform (e.g., Instagram DMs, Instagram stories, Instagram posts, Instagram reels), and the volume of the media (e.g., posting frequency).
+
+Pyramid of Markets: He introduces the concept of the Pyramid of Markets, which provides five directions for market expansion: going upmarket (targeting higher-end customers), going downmarket (targeting lower-end customers), going adjacent (targeting similar but different markets), going broader (expanding the net to include all adjacent markets), and going narrower (specializing in a specific niche within the market).
+
+Value Proposition: He emphasizes the importance of providing the most value to the customer. He suggests entrepreneurs should ask themselves who they provide the most value to in terms of dollars made.
+
+Experience and Time: He highlights the importance of experience and time in business growth. He mentions that big businesses take time to build and that there are not many billionaires under 30 who made it themselves. He encourages patience and persistence in business growth.
+
+Niche Down: He suggests that sometimes, by becoming more specific with your messaging, your offer, and the value delivered, you can make more money. This is because if you can make a specific avatar significantly more money than a broad avatar, you should absolutely niche down on that.
+
+Should Do's: He talks about the checklist that entrepreneurs often have of things they know they should be doing but aren't, such as calling leads faster, following up better, making more content, starting a cold calling thing, running ads on more platforms, etc. He emphasizes that these things take time and are part of the process of building a big business.
+
+Investor's Perspective: He encourages entrepreneurs to look at their business from an investor's perspective and realize that they have not even captured one percent of their industry. This perspective can help them realize the potential for growth in their business.
+
+Leverage: He talks about the four initial levers that entrepreneurs can immediately pull to grow the number of leads they're getting. These include exploring new methods, platforms, media types, and increasing the volume of their current activities.
+Mastery through Repetition: Alex emphasizes the importance of gaining experience and expertise in your field. He argues that success comes from a deep understanding of your industry, which can only be achieved through repetition and time spent "under the bar."
+
+Learning from Others: He encourages learning from the successes and failures of others. By observing and replicating the strategies of successful people in your industry, you can avoid common pitfalls and accelerate your own success.
+
+Value of Skills: Alex highlights the importance of having valuable skills that you can offer to others. He suggests offering to work for free for successful people in your industry in order to learn from them.
+
+Understanding Your Customers: He stresses the need to deeply understand your customers' needs and how to meet them. In his example, he talks about a real estate agent who wasn't succeeding because he didn't fully understand his clients' processes and needs.
+
+Persistence and Patience: Alex talks about the "Rocky Cut Scene" period that every successful entrepreneur goes through. This is a period of hard work and learning where success may not be immediately visible, but it lays the foundation for future success.
+
+Confidence and Conviction: He discusses the importance of having confidence in your product or service. This confidence comes from knowing, through experience and success, that what you're offering is valuable.
+"How to Start a Social Media Marketing Agency (SMMA 2022)"
+
+Identify your niche: Choose a specific industry or type of business to target with your services.
+Offer a free audit: This can help potential clients understand what they're doing wrong and how you can help.
+Build a team: As your agency grows, you'll need to hire people to help manage the workload.
+Use project management tools: Tools like Trello or Asana can help keep your team organized and on track.
+Always be learning: The world of social media is always changing, so it's important to stay up-to-date with the latest trends and strategies.
+"How to Start a Marketing Agency with $0 Investment"
+
+Start with a service you're good at: If you're great at SEO, start with that. If you're a whiz at social media, offer that service first.
+Build a portfolio: Before you can attract clients, you need to show them what you can do. Start by doing work for free or for a reduced rate to build up your portfolio.
+Network: Attend industry events, join online forums, and use social media to connect with potential clients.
+Reinvest in your business: As you start to make money, reinvest it back into your business to help it grow.
+"Private Conversation with a Billion Dollar Entrepreneur"
+
+Understand the difference between superstars and stars: Superstars are the ones who can drive growth and solve problems without your input.
+Incentivize your superstars: Give them a share of the profits and the opportunity to buy into the company.
+Break your company into smaller pieces: This can help to incentivize your employees and drive growth.
+Be humble: Accept that you don't have all the answers and be willing to listen to the ideas of others.
+Invest wisely: The entrepreneur in the video had success with real estate, but emphasized the importance of being more concerned with the return of capital than the return on capital.
+Video 1: "He Makes $11M on TikTok with 0 Followers"
+
+Reverse engineer a product that can go viral.
+Use project management tools like Trello for task tracking.
+Use Shopify for online store management.
+Use Klaviyo for email automation.
+Use Shoffi for affiliate marketing.
+Use OneText for SMS marketing.
+Use Zipify for one-click upselling on Shopify.
+Video 2: "From Idea to $11M in 18 Months | Oliver Brocato - Tabs"
+
+Start with a service you're good at and build a portfolio.
+Network and reinvest in your business.
+Use the same tech stack as mentioned in the first video.
+Video 3: "The Marketing Strategy That Made Me $10 MILLION (no ad spend)"
+
+Leverage TikTok for organic reach.
+Work with content creators on a recurring model.
+Use user-generated content (UGC).
+Focus on quantity and quality of content.
+Video 4: "How I Built A $10,000,000 Shopify Chocolate Business"
+
+Invest heavily in branding and packaging.
+Balance the quality and effectiveness of the product.
+Use a custom polycarbonate virgin mold for product design.
+Use the same tech stack as mentioned in the first video.
+These strategies provide a comprehensive guide to leveraging social media, particularly TikTok, for organic reach and growth. They also highlight the importance of using the right tools and platforms for managing various aspects of the business, from project management to email automation, affiliate marketing, and online store management.
+
+Accommodating Buying Curve: The speaker introduces the concept of an accommodating buying curve, which means having a range of products or services that cater to customers at different wealth levels. However, he warns against creating too many products or services, as it can lead to operational complexity and confusion among both employees and customers.
+
+Simplifying Product Offering: The speaker suggests simplifying the product offering and reaching the maximum buying threshold per prospect by changing the payment terms. He advises selling one product or service when going from zero to one million, and introducing a second product line when going from one to ten million.
+
+Front-End and Back-End Products: The speaker suggests having a front-end product or service and a back-end product or service. The front-end product is what you sell to get customers in the door, and the back-end product is what you sell to existing customers to increase their value.
+
+Payment Terms: The speaker emphasizes that people often look at their monthly expense more than the total contract value. Therefore, businesses can accommodate different wealth levels by offering different payment terms.
+
+Selling One Thing: The speaker advises focusing all sales and persuasion attempts on selling one thing. Once the customer says yes, businesses can accommodate their wealth and budget based on the payment terms provided.
+
+High Gross Margins: The speaker suggests structuring the offer in a way that it has very high gross margins. This means that whether the person pays a high or low amount per month, it's still almost all margin for the business.
+
+Capturing Higher Lifetime Value (LTV): The speaker suggests capturing higher LTVs by getting people who have more money to prepay upfront. These customers can then be ascended into the second product faster, as they've already prepaid the first product.
+
+Solving the Next Natural Problem: The speaker suggests solving the next natural problem in another sales conversation, rather than trying to solve all problems in one conversation. This makes the sales process simpler and more effective.
+
+Advice for Entrepreneurs: The speaker advises entrepreneurs who are not very good at operating their businesses and are below three million dollars a year to use these strategies. He suggests focusing on making offers that people cannot say no to, and structuring those offers in a way that they have high gross margins.
+
+The speaker's journey: The speaker shares his journey of starting a business right out of college, facing initial failures, and then eventually finding success. He talks about the low points in his journey, such as having to move back in with his parents and feeling like a failure. However, he emphasizes that these experiences were crucial in shaping his mindset and driving him to succeed.
+
+The importance of self-learning and going against societal norms: The speaker highlights the importance of self-learning and going against societal norms. He mentions how he was able to achieve success by not following the traditional path of going to college and getting a job but instead starting his own business.
+
+The impact of having a personal brand: The speaker discusses the impact of having a personal brand. He mentions how having a personal brand has opened up opportunities for him, such as attracting investors and talented individuals who want to work with him.
+
+The value of consulting and courses: The speaker discusses the value of consulting and courses. He mentions how he offers consulting services and is considering creating a course to share his knowledge and experience. He emphasizes that these services are not just about making money but about providing value and helping others.
+
+The importance of taking risks and being persistent: The speaker emphasizes the importance of taking risks and being persistent. He shares how he was able to grow his business by continuously trying new strategies and not giving up despite facing challenges.
+
+The role of mindset in achieving success: The speaker emphasizes the role of mindset in achieving success. He mentions how having a positive mindset and believing in oneself can help one overcome challenges and achieve their goals.
+
+The importance of diversifying and exploring new avenues: The speaker talks about the importance of diversifying and exploring new avenues. He mentions how he is looking to venture into the software space and other projects that he is passionate about.
+
+The importance of taking care of oneself: The speaker emphasizes the importance of taking care of oneself. He shares how he had to take a break and travel to get excited about life again when he was feeling low.
+
+The importance of building a team: The speaker emphasizes the importance of building a team. He mentions how he was able to grow his business by building a team and working on the business instead of working in the business.
+
+The importance of accountability: The speaker talks about the importance of accountability. He mentions how having people who hold you accountable can help you stay motivated and focused on your goals.
+
+Accommodating Buying Curve: The speaker introduces the concept of an accommodating buying curve, which means having a range of products or services that cater to customers at different wealth levels. However, he warns against creating too many products or services, as it can lead to operational complexity and confusion among both employees and customers.
+
+Simplifying Product Offering: The speaker suggests simplifying the product offering and reaching the maximum buying threshold per prospect by changing the payment terms. He advises selling one product or service when going from zero to one million, and introducing a second product line when going from one to ten million.
+
+Front-End and Back-End Products: The speaker suggests having a front-end product or service and a back-end product or service. The front-end product is what you sell to get customers in the door, and the back-end product is what you sell to existing customers to increase their value.
+
+Payment Terms: The speaker emphasizes that people often look at their monthly expense more than the total contract value. Therefore, businesses can accommodate different wealth levels by offering different payment terms.
+
+Selling One Thing: The speaker advises focusing all sales and persuasion attempts on selling one thing. Once the customer says yes, businesses can accommodate their wealth and budget based on the payment terms provided.
+
+High Gross Margins: The speaker suggests structuring the offer in a way that it has very high gross margins. This means that whether the person pays a high or low amount per month, it's still almost all margin for the business.
+
+Capturing Higher Lifetime Value (LTV): The speaker suggests capturing higher LTVs by getting people who have more money to prepay upfront. These customers can then be ascended into the second product faster, as they've already prepaid the first product.
+
+Solving the Next Natural Problem: The speaker suggests solving the next natural problem in another sales conversation, rather than trying to solve all problems in one conversation. This makes the sales process simpler and more effective.
+
+Advice for Entrepreneurs: The speaker advises entrepreneurs who are not very good at operating their businesses and are below three million dollars a year to use these strategies. He suggests focusing on making offers that people cannot say no to, and structuring those offers in a way that they have high gross margins.
+Accommodating Buying Curve: The speaker introduces the concept of an accommodating buying curve, which means having a range of products or services that cater to customers at different wealth levels. However, he warns against creating too many products or services, as it can lead to operational complexity and confusion among both employees and customers.
+
+Simplifying Product Offering: The speaker suggests simplifying the product offering and reaching the maximum buying threshold per prospect by changing the payment terms. He advises selling one product or service when going from zero to one million, and introducing a second product line when going from one to ten million.
+
+Front-End and Back-End Products: The speaker suggests having a front-end product or service and a back-end product or service. The front-end product is what you sell to get customers in the door, and the back-end product is what you sell to existing customers to increase their value.
+
+Payment Terms: The speaker emphasizes that people often look at their monthly expense more than the total contract value. Therefore, businesses can accommodate different wealth levels by offering different payment terms.
+
+Selling One Thing: The speaker advises focusing all sales and persuasion attempts on selling one thing. Once the customer says yes, businesses can accommodate their wealth and budget based on the payment terms provided.
+
+High Gross Margins: The speaker suggests structuring the offer in a way that it has very high gross margins. This means that whether the person pays a high or low amount per month, it's still almost all margin for the business.
+
+Capturing Higher Lifetime Value (LTV): The speaker suggests capturing higher LTVs by getting people who have more money to prepay upfront. These customers can then be ascended into the second product faster, as they've already prepaid the first product.
+
+Solving the Next Natural Problem: The speaker suggests solving the next natural problem in another sales conversation, rather than trying to solve all problems in one conversation. This makes the sales process simpler and more effective.
+
+Advice for Entrepreneurs: The speaker advises entrepreneurs who are not very good at operating their businesses and are below three million dollars a year to use these strategies. He suggests focusing on making offers that people cannot say no to, and structuring those offers in a way that they have high gross margins.
+
+Price Anchoring: The speaker discusses the concept of price anchoring, where a high initial price is set to make subsequent prices seem cheaper. This strategy can be used to influence customer perception and increase sales of specific products.
+
+Value Perception: The speaker emphasizes that customers are willing to pay more if they perceive the value to be high. He suggests that businesses should focus on demonstrating the value of their products or services to justify higher prices.
+
+Pricing Based on Customer Segmentation: The speaker suggests that pricing should be based on the value delivered to a specific customer segment. For example, a service could be more valuable to a large corporation than to a small business, and the price should reflect this.
+
+Creating High-Priced Products: The speaker encourages businesses to create products that are 10x, 50x, or 100x more expensive than their current offerings. These high-priced products can serve as price anchors and attract customers who always buy the most expensive option.
+Accommodating Buying Curve: The speaker introduces the concept of an accommodating buying curve, which means having a range of products or services that cater to customers at different wealth levels. However, he warns against creating too many products or services, as it can lead to operational complexity and confusion among both employees and customers.
+
+Simplifying Product Offering: The speaker suggests simplifying the product offering and reaching the maximum buying threshold per prospect by changing the payment terms. He advises selling one product or service when going from zero to one million, and introducing a second product line when going from one to ten million.
+
+Front-End and Back-End Products: The speaker suggests having a front-end product or service and a back-end product or service. The front-end product is what you sell to get customers in the door, and the back-end product is what you sell to existing customers to increase their value.
+
+Payment Terms: The speaker emphasizes that people often look at their monthly expense more than the total contract value. Therefore, businesses can accommodate different wealth levels by offering different payment terms.
+
+Selling One Thing: The speaker advises focusing all sales and persuasion attempts on selling one thing. Once the customer says yes, businesses can accommodate their wealth and budget based on the payment terms provided.
+
+High Gross Margins: The speaker suggests structuring the offer in a way that it has very high gross margins. This means that whether the person pays a high or low amount per month, it's still almost all margin for the business.
+
+Capturing Higher Lifetime Value (LTV): The speaker suggests capturing higher LTVs by getting people who have more money to prepay upfront. These customers can then be ascended into the second product faster, as they've already prepaid the first product.
+
+Solving the Next Natural Problem: The speaker suggests solving the next natural problem in another sales conversation, rather than trying to solve all problems in one conversation. This makes the sales process simpler and more effective.
+
+Advice for Entrepreneurs: The speaker advises entrepreneurs who are not very good at operating their businesses and are below three million dollars a year to use these strategies. He suggests focusing on making offers that people cannot say no to, and structuring those offers in a way that they have high gross margins.
+
+Price Anchoring: The speaker discusses the concept of price anchoring, where a high initial price is set to make subsequent prices seem cheaper. This strategy can be used to influence customer perception and increase sales of specific products.
+
+Value Perception: The speaker emphasizes that customers are willing to pay more if they perceive the value to be high. He suggests that businesses should focus on demonstrating the value of their products or services to justify higher prices.
+
+Pricing Based on Customer Segmentation: The speaker suggests that pricing should be based on the value delivered to a specific customer segment. For example, a service could be more valuable to a large corporation than to a small business, and the price should reflect this.
+
+Creating High-Priced Products: The speaker encourages businesses to create products that are 10x, 50x, or 100x more expensive than their current offerings. These high-priced products can serve as price anchors and attract customers who always buy the most expensive option.
+
+Payment Options and Conversion Rates: The speaker mentions that the more payment options you provide, the higher your conversions are. He suggests that businesses should offer different payment plans to accommodate customers' budgets and increase sales.
+
+Increasing Customer Lifetime Value (LTV): The speakerdiscusses the importance of increasing the customer's lifetime value (LTV). He suggests that businesses can increase LTV by getting customers who have more money to prepay upfront. This strategy not only increases immediate cash flow but also makes the customer more likely to purchase additional products or services in the future.
+
+Solving the Next Problem in Another Sales Conversation: The speaker advises businesses to focus on solving one problem at a time. Instead of trying to solve all of a customer's problems in one sales conversation, he suggests solving the next natural problem in a subsequent conversation. This approach makes the sales process simpler and more effective.
+
+Advice for Entrepreneurs: The speaker provides advice for entrepreneurs, particularly those who are not very good at operating their businesses and are earning less than three million dollars a year. He suggests focusing on making offers that people cannot refuse and structuring those offers in a way that they have high gross margins.
+
+The Importance of Gross Margins: The speaker emphasizes the importance of having high gross margins. He explains that whether a customer pays a high or low amount per month, if the offer is structured correctly, it should still be almost all margin for the business.
+
+The Importance of Clear Communication in Sales: The speaker highlights the importance of clear communication in sales. He advises businesses to focus on selling one thing and to communicate clearly about what they are selling. This approach can help to avoid confusion and increase sales.
+
+The Importance of Customer Stickiness: The speaker discusses the concept of customer stickiness, which refers to the likelihood of a customer continuing to do business with a company over time. He suggests that businesses can increase customer stickiness by offering upfront payments and lower recurring payments.
+The Concept of Trauma: The speaker, Alex Hormozi, discusses the concept of trauma and how it is perceived differently across cultures. He suggests that our cultural narrative can influence whether an event is considered traumatic or not. This implies that our perception of events and our reactions to them can be controlled and changed.
+
+The Game of Life: Hormozi uses the analogy of life as a game, where everyone is given a token to enter a casino. In this game, everyone is dealt different cards and depending on their level of skill, they amass more and more chips. However, at the end of the game, all the chips are pushed back to the middle of the table, implying that the material possessions we accumulate in life are temporary and ultimately meaningless.
+
+The Importance of Happiness: Hormozi shares his personal journey where he decided to stop judging himself for not being happy and instead focused on doing things that he thought were cool. This shift in perspective led him to stop worrying about whether he was happy or not, which in turn made him happier.
+
+The Illusion of Ownership: Hormozi discusses the illusion of ownership using the example of land ownership. He points out that many people have owned a piece of land before him and many will own it after him, suggesting that ownership is temporary and not as significant as we often perceive it to be.
+
+The Impact of Wealth on Future Generations: Hormozi discusses the potential negative impact of leaving a large amount of wealth to future generations. He suggests that giving people resources that they didn't learn how to use or manage can be destructive because it's too much potential energy that they can't handle.
+
+The Concept of Belief: Hormozi discusses the concept of belief and how it can create a false binary. He uses the example of religious beliefs to illustrate this point, suggesting that the extent of belief is more important than simply believing or not believing.
+
+The Inevitability of Death and Taxes: Hormozi mentions the inevitability of death and taxes, suggesting that these are aspects of life that everyone has to deal with, regardless of their wealth or status.
+
+The Importance of Doing What You Want: Hormozi emphasizes the importance of doing what you want in the moment, rather than worrying about whether it will make you happy or not. He suggests that this approach can lead to a more fulfilling life.
+
+The Impact of Culture and Environment: Hormozi discusses the impact of culture and environment on people's beliefs and behaviors. He suggests that people are shaped by their culture and environment, which can influence how they perceive and react to different events.
+
+The Importance of Clear Communication: Hormozi highlights the importance of clear communication, especially when dealing with difficult or uncomfortable conversations. He suggests that being clear about your beliefs and intentions can help to avoid misunderstandings and conflicts.
+
+The Concept of Money and Wealth: Hormozi discusses the concept of money and wealth, suggesting that these are just chips in the game of life that are ultimately pushed back to the middle of the table. He suggests that the accumulation of wealth is not as important as we often perceive it to be.
+
+The Importance of Skill in the Game of Life: Hormozi suggests that skill is an important factor in the game of life. Depending on their level of skill, people can amass more chips in the game, implying that developing and improving skills can lead to success in life.
+The Offer is King: The speaker, Alex Hormozi, emphasizes the importance of having a compelling offer in business. He suggests that if you have a good enough offer, you don't have to sell hard or have amazing copy or creative. A good offer can get a lot of people to sign up for your product or service.
+
+Three Components of an Offer: Hormozi breaks down an offer into three components: believability, a high return on investment (ROI), and a reason why the offer is being made. He suggests that an offer needs to be believable, valuable to the customer, and there should be a good reason why the offer is being made.
+
+Seven Ways to Ethically Use Free: Hormozi outlines seven ways to use the concept of 'free' in your offers:
+
+Free Trial: Offer a free trial of your product or service. This can attract customers who are interested in trying out your product or service before committing to a purchase.
+Free with Deposit: Offer a free product or service with a deposit. This can encourage customers to try out your product or service with a lower financial risk.
+Free Forever: Offer a free product or service forever. This can attract customers who are looking for long-term value.
+Free Giveaway: Run a free giveaway. This can attract a large number of potential customers who are interested in the chance to win something for free.
+Free with Commitment: Offer a free product or service with a commitment. This can attract customers who are willing to commit to a long-term relationship with your business.
+Free with Stipulations: Offer a free product or service with stipulations. This can attract customers who are willing to meet certain conditions in exchange for a free product or service.
+Free with Contingency: Offer a free product or service with a contingency. This can attract customers who are willing to meet certain conditions in exchange for a free product or service.
+The Importance of Clear Communication: Hormozi highlights the importance of clear communication, especially when dealing with difficult or uncomfortable conversations. He suggests that being clear about your beliefs and intentions can help to avoid misunderstandings and conflicts.
+
+The Concept of Money and Wealth: Hormozi discusses the concept of money and wealth, suggesting that these are just chips in the game of life that are ultimately pushed back to the middle of the table. He suggests that the accumulation of wealth is not as important as we often perceive it to be.
+
+The Importance of Skill in the Game of Life: Hormozi suggests that skill is an important factor in the game of life. Depending on their level of skill, people can amass more chips in the game, implying that developing and improving skills can lead to success in life.
+
+The Impact of Culture and Environment: Hormozi discusses the impact of culture and environment on people's beliefs and behaviors. He suggests that people are shaped by their culture and environment, which can influence how they perceive and react to different events.
+
+The Importance of Doing What You Want: Hormozi emphasizes the importance of doing what you want in the moment, rather than worrying about whether it will make you happy or not. He suggests that this approach can lead to a more fulfilling life.
+
+The Importance of Knowing Your Metrics: Hormozi emphasizes the importance of knowing your metrics when using 'free' in your offers. Knowing your customer lifetime value (LTV), conversion rates, and other key metrics can help you make informed decisions about your offers and marketing strategies.
+The Importance of a Compelling Offer: The speaker, Alex Hormozi, emphasizes the importance of having a compelling offer in business. He suggests that if you have a good enough offer, you don't have to sell hard or have amazing copy or creative. A good offer can get a lot of people to sign up for your product or service.
+
+Three Components of an Offer: Hormozi breaks down an offer into three components: believability, a high return on investment (ROI), and a reason why the offer is being made. He suggests that an offer needs to be believable, valuable to the customer, and there should be a good reason why the offer is being made.
+
+Seven Ways to Ethically Use Free: Hormozi outlines seven ways to use the concept of 'free' in your offers:
+
+Free Trial: Offer a free trial of your product or service. This can attract customers who are interested in trying out your product or service before committing to a purchase.
+Free with Deposit: Offer a free product or service with a deposit. This can encourage customers to try out your product or service with a lower financial risk.
+Free Forever: Offer a free product or service forever. This can attract customers who are looking for long-term value.
+Free Giveaway: Run a free giveaway. This can attract a large number of potential customers who are interested in the chance to win something for free.
+Free with Commitment: Offer a free product or service with a commitment. This can attract customers who are willing to commit to a long-term relationship with your business.
+Free with Stipulations: Offer a free product or service with stipulations. This can attract customers who are willing to meet certain conditions in exchange for a free product or service.
+Free with Contingency: Offer a free product or service with a contingency. This can attract customers who are willing to meet certain conditions in exchange for a free product or service.
+The Importance of Clear Communication: Hormozi highlights the importance of clear communication, especially when dealing with difficult or uncomfortable conversations. He suggests that being clear about your beliefs and intentions can help to avoid misunderstandings and conflicts.
+
+The Concept of Money and Wealth: Hormozi discusses the concept of money and wealth, suggesting that these are just chips in the game of life that are ultimately pushed back to the middle of the table. He suggests that the accumulation of wealth is not as important as we often perceive it to be.
+
+The Importance of Skill in the Game of Life: Hormozi suggests that skill is an important factor in the game of life. Depending on their level of skill, people can amass more chips in the game, implying that developing and improving skills can lead to success in life.
+
+The Impact of Culture and Environment: Hormozi discusses the impact of culture and environment on people's beliefs and behaviors. He suggests that people are shaped by their culture and environment, which can influence how they perceive and react to different events.
+
+The Importance of Doing What You Want: Hormozi emphasizes the importance of doing what you want in the moment, rather than worrying about whether it will make you happy or not. He suggests that this approach can lead to a more fulfilling life.
+
+The Importance of Knowing Your Metrics: Hormozi emphasizes the importance of knowing your metrics when using 'free' in your offers. Knowing your customer lifetime value (LTV), conversion rates, and other key metrics can help you make informed decisions about your offers and marketing strategies.
+
+The Useof Text in Videos: The video discusses the use of text in videos, comparing the styles of Mr. Who's the Boss and Casey Neistat. Mr. Who's the Boss uses text to reinforce what he's saying, while Casey Neistat uses text to let viewers fill in the gaps of the story themselves.
+
+The Use of Sound Effects: The video compares the use of sound effects in videos by comparing the styles of Natalie Lin and Airrack. Natalie Lin uses sound effects that sound real, while Airrack uses sound effects to create a sensory overload and build emotion, pace, and excitement.
+
+The Use of Movement in Videos: The video compares the use of movement in videos by comparing the styles of Emma Chamberlain and Preston. Emma Chamberlain uses minimal movement to focus on what she's saying, while Preston uses constant movement to keep the viewer engaged.
+
+The Importance of Editing for Your Audience: The video emphasizes the importance of editing for your audience. It suggests that you should consider your viewers' expectations and the tone you want to create when deciding how to edit your videos.
+
+The Importance of Ordering Information: The video suggests that retention is more about the way you order your information and the creative ways you work out how to get your message across than about editing effects.
+
+The Importance of Authenticity: The video suggests that maintaining an authentic tone in your videos is important. It suggests that using manufactured excitement can damage this authenticity.
+
+The Importance of Trust: The video suggests that trust is important when creating videos. It suggests that using clearly fake sounds or effects can damage this trust.
+
+The Importance of Choosing a Side: The video suggests that when deciding how to edit your videos, you should choose a side and edit for that audience, rather than trying to please everyone.
+
+The Importance of Taste: The video suggests that different viewers will have different tastes, and you should consider this when deciding how to edit your videos. It suggests that you should edit your videos in a way that appeals to your target audience's tastes.
+The YouTube algorithm is designed to follow the audience and maximize long-term viewer satisfaction. Watch time is important, but viewer satisfaction is a major part of the algorithm.
+There are over 80 billion viewer signals every day, including what a viewer watches, how long they watch, likes, dislikes, shares, and more. The most valuable action a viewer can take is to watch more of your content.
+YouTube's recommendation system finds videos for viewers, not viewers for videos. The system looks at everything it knows about a viewer and shows them new videos based on those categories.
+YouTube uses signals of videos that tend to be watched together, as well as the personalization of the viewer, to suggest what the viewer is most likely to watch next.
+YouTube is adding more tools to analytics to help you understand your audience. Looking at what other videos your audience is watching can give you ideas for future content.
+The presenter shared a graph that shows what is a good retention rate for your videos to be successful and get a lot of views. This graph can help you understand how much watch time your video needs to get in order for it to go viral.
+The presenter emphasized the importance of considering your casual audience and the potential evergreen value of your content. Most views will not come in the first day or even the first week of your video, so don't obsess too much on your real-time analytics.
+For every 100 viewers you have, over 700 viewers will have seen your thumbnails in their feed in some way. This is a creator's biggest opportunity to get more views.
+
+The YouTube algorithm is made of people. When you have a question about the algorithm, replace the word "algorithm" with the word "audience" because the algorithm is designed to follow the audience and make them as happy as possible.
+YouTube's recommendation system is designed to help each viewer find videos that they want to watch and maximize long-term viewer satisfaction.
+YouTube cares about the long term of making viewers come back to the platform consistently for years and even decades.
+Watch time is important, but what they really want is for viewers to be satisfied and truly enjoy the time that they spend on YouTube.
+YouTube measures watch time in terms of quality, not just quantity. This is done through viewer signals, which include what a viewer watches, what they don't watch, how long they watch, where they watch, when they watch, likes and dislikes, shares, and the "not interested" feedback.
+The most effective thing for building quality watch time as a creator is not to ask for likes or subscribes or shares, but to simply encourage your viewers to watch more of your content.
+YouTube's recommendation system finds videos for viewers, not viewers for videos. The system looks at everything it knows about a viewer and shows them new videos based on those categories.
+The most common way viewers find new videos to recommend is by relating videos to each other. Every video on YouTube has a set of other videos that tend to be watched by similar viewers.
+The context of a viewer in that moment that they are watching is being considered when determining the ranking for which videos are the most related to the viewer at that given moment.
+Different channels get traffic from different sources, and that's just normal. For example, how-to content gets more views from search results, music content might get more views from playlists, and news and other content might get more views from the home page.
+YouTube is also adding more tools to analytics to help you understand your audience. They're showing in your analytics other videos as well as other channels your audience watched. This is some of the most important and most powerful information for how YouTube determines who to recommend your videos to.
+The presenter shared a graph that shows what is a good retention rate for your videos to be successful and get a lot of views. This graph can help you understand how much watch time your video needs to get in order for it to go viral.
+For how many videos you should upload on your channel, you want to compare how many videos you publish versus how many average views per viewer your channel has to find the right balance of quantity and quality for your channel.
+For every 100 viewers you have, over 700 viewers will have seen your thumbnails in their feed in some way. This is a creator's biggest opportunity to get more views.
+Even for well-known channels like Mr Beast, a significant portion of the audience in the past month are new viewers. This shows the potential for growth on YouTube.
+The presenter emphasized the importance of considering your casual audience and the potential evergreen value of your content. Most views will not come in the first day or even the first week of your video, so don't obsess too much on your real-time analytics.
+Content is King: The first and main reason why your reels or TikToks don't get views is that your content isn't relatable, relevant, or shareable. The rest of the tips in this video won't do you much good if the content of your video just doesn't appeal to anyone.
+
+Relatable Content: Can people relate to your content? A good example of relatable content in the filmmaking space specifically is Chris Hau. One of his most viewed reels is him posing a relatable question about getting into photography and then giving all the relatable reasons about how expensive it is, how many endless pieces of gear you have to buy, etc.
+
+Shareable Content: Sam Kolder focuses more on shareability. One of his most viewed reels is a one-minute clip from one of his tutorials showing the difference in focal lengths.
+
+Keep It Concise: Keep your content concise and engaging. Keep your audience on their toes by giving them something new to look at as often as possible.
+
+Add Value: Rather than asking for value, add value to your audience's lives. This could be in the form of entertainment, giving them news updates, educating them, making them laugh, making them feel good about themselves, inspiring them.
+
+Humans Connect With Humans: Humans connect better with real, authentic, organic, unscripted content. Even if you are a behind-the-scenes camera person, build your personal brand by including behind-the-scenes shots of yourself and talk to your audience on camera when it makes sense.
+
+Keep Up With Trends: Keep up to date with trends and trending audio. The algorithms will work in your favor if you can include some trending audio and your content will instantly fall into the relevant category if you're jumping on a video style or song that is trending.
+
+Don't Neglect Lighting and Audio: If you're doing anything where you're not right next to the camera, then use a microphone. It will make your videos feel so much higher quality. On the lighting side, you can get by with a cheap camera as long as your lighting looks decent.
+
+Captions: Captions or subtitles are a growing necessity on short-form content. It makes content much more engaging and easier to consume as you can both hear audibly and see visually what's being said.
+
+Aspect Ratio and Export Settings: Vertical 9x16 content will typically perform better as it takes up the full use of the screen and looks more organic like you shot it on your phone vertically.
+
+Distribution is Queen: If content is King, distribution is Queen. This refers to things like using hashtags, using a good cover photo or thumbnail, posting during a certain time of day, posting on certain days, posting a certain frequency, and posting consistently in general. All these little things will increase the likelihood of your videos getting seen.
+
+Consistency: Algorithms love to see regular activity. For example, if you go a couple of months without posting much on Instagram, you may start losing followers rather than gaining. So set a goal to at least post once a week and after doing that for a few weeks, the algorithm will start working in your favor.
+
+Remember, virality is a random game. Some posts will fall flat, some will take off, and there won't always be a specific rhyme or reason to it. Don't let that discourage you from continuing to create.
+
+Andrew Kirby's Journey: Andrew Kirby, a successful YouTuber, made a million dollars in course sales before the age of 21. He then decided to quit and go traveling. During his travels, he had an idea which led him back to the YouTube space. He bought an online community focusing on helping creators make money, grew it, and made it free. He has worked with creators like James Jani and Mr Beast, and has helped Hamza generate hundreds of thousands of dollars a month while still charging nothing.
+
+Building a Free Community: Andrew believes in playing the long game. He sees his career as a 70-year game where making money today or this month becomes less of a priority. Building network connections, adding value, and building goodwill matters a lot more. He built a free community for content creators looking to make a career online.
+
+The Future of Work - Synthesizers: Andrew believes that the future of work belongs to the synthesizers - people who spend a lot of time solving a problem or learning something and then package up everything they learned into a solution that can be consumed in a much shorter period of time. This accelerates the progress of humanity.
+
+Common Mistake by Creators: The biggest mistake Andrew sees is when creators have an audience but haven't yet figured out how to monetize it properly. He believes that figuring out the monetization side of things can change everything.
+
+Networking with Creators: Andrew has networked with creators like James Jani and Hamza through his platform. He reached out to James Jani when he had uploaded only two or three videos and built a relationship over the course of a few years. With Hamza, their relationship started with a bit of drama but they eventually became friends.
+
+Helping Creators Monetize: Andrew helped James Jani create systems that allowed him to upload more frequently and figure out monetization. He also helped him build a team. For Hamza, Andrew helped him launch a paid community on Skool, which was a powerful monetization vehicle for him.
+
+Building a YouTube Channel for Flow Research Collective: Andrew helped Flow Research Collective build a YouTube channel by first building a team. They had the budget and the unfair advantages of having years worth of scientific research done into the flow state. They just needed a team of people that were able to take what they already know and package it in a way that's going to perform well on the different social platforms.
+
+Helping YouTubers for Free: Andrew wants to help YouTubers grow businesses for free. He is looking for YouTubers who have the best audience but are monetizing it the least effectively because that's the person that he can help the most. He is willing to do it for free because he believes that the long-term benefits of building case studies, building a network, adding value and goodwill, and the lessons that he learns from achieving those sorts of transformations are huge and will pay dividends for him over the course of the next 60-70 years.
+Capture Ideas and Brainstorm: The video creator uses a tool called Milanote to capture ideas and brainstorm. This tool allows you to create different columns, name them, and create different parts. It's a great tool for organizing thoughts and ideas.
+
+Four Steps to Creating a Video: The creator follows four steps when brainstorming for a video: Capture, Research, Brainstorm, and Create.
+
+Capture: This involves gathering various inspirations for the video. This could be from books, images, or other YouTube videos. The creator downloads thumbnails and video titles and puts them into the capture part in Milanote.
+
+Research: The creator does some research about the video topic. They link the research into their research page so they can see all of them in one place. They also use the web clip feature in Milanote to clip web pages and read them later on.
+
+Brainstorm: The creator watches other videos that are talking about similar things and sees how they approach it. They put different videos on Milanote and can easily go back to the videos that they brainstormed from.
+
+Create: This involves writing a script. The creator follows a simple storytelling structure which consists of Hook, Context, Setup, Climax, and Character Change.
+
+Writing is Essential: The creator emphasizes that writing is the base of all social media content. They believe that improving writing skills is essential for improving content quality.
+
+Learn from Others: The creator emphasizes the importance of embracing influences and learning from the success of others to come up with great content ideas. They suggest studying the techniques or presentation styles and tones of successful creators to understand how they connect with their audience.
+
+Seek Feedback: The creator suggests sharing your ideas with your friends, family, or even with your viewers to see what they think. This can help you refine your ideas and make sure that you're producing content that your audience loves.
+
+Consistency is Key: The creator suggests posting regularly and sticking to a schedule so that your viewers know when to expect new content from you. They also suggest reviewing your analytics to see how consistent posting affects your channel's growth.
+
+Be Honest with Yourself: The creator suggests being honest with yourself if your videos aren't performing as well as you would like. They suggest analyzing what you can do better and facing your problems.
+
+Focus on Your Growth: The creator suggests focusing on your growth and progress and celebrating your success no matter how small. They also suggest not comparing your journey to others.
+
+Experiment with New Ideas: The creator suggests experimenting with new ideas and not being afraid to try new things on your channel. They believe that it takes a bit of experimentation to find the right content formula that resonates with your audience.
+
+Stay Informed: The creator suggests staying informed about the latest trends and updates to the platform. This will help you make data-driven decisions and optimize your content strategy.
+Emergency Fund: The speaker emphasizes the importance of having an emergency fund. He suggests saving $1,000 to $5,000 as a safety net for unexpected expenses. This fund should be established before paying off debt.
+
+Paying off Debt: After setting up an emergency fund, the next step is to pay off debts. The speaker suggests starting with the smallest debts and working up to the largest. This approach provides emotional victories and motivation to continue paying off larger debts.
+
+Living Expenses: After paying off debts, the speaker suggests saving up three to six months' worth of living expenses. This provides financial security and reduces stress.
+
+Building Wealth: The speaker suggests investing 15% of pre-tax income into the S&P 500. He emphasizes that this is not investment advice, but rather a strategy that has worked for him. He also suggests refinancing mortgages to a 15-year fixed rate to increase equity faster.
+
+Downgrading Lifestyle: The speaker suggests downgrading lifestyle choices, such as living in a less expensive neighborhood or driving a less expensive car, to save money. He shares his personal experience of driving a Prius while being a millionaire to illustrate this point.
+
+Investing in Assets: The speaker emphasizes the importance of investing in assets that grow in value over time, such as a house. He mentions that there are no capital gains taxes on selling a primary home that has increased in value.
+
+Avoiding Unnecessary Expenses: The speaker advises against spending money on unnecessary things like expensive cars or living in expensive neighborhoods. He suggests that these expenditures only serve to impress others and do not contribute to personal happiness or financial security.
+
+Financial Freedom: The speaker emphasizes that financial freedom comes from living within one's means and making smart financial decisions. He suggests that the goal of becoming wealthy should be to reduce stress and increase happiness, rather than to accumulate material possessions.
+
+The Power of Compound Interest: The speaker illustrates the power of compound interest with an example. He shows how investing a small amount of money consistently over a long period of time can result in significant wealth.
+
+The Importance of Discipline: The speaker emphasizes the importance of discipline in achieving financial goals. He suggests that making sacrifices in the short term can lead to significant benefits in the long term.
+
+The Role of Money: The speaker suggests that money should serve you, not the other way around. He emphasizes that money is a tool that can be used to achieve financial security and freedom.
+
+The Importance of Financial Education: The speaker emphasizes the importance of financial education in achieving financial goals. He suggests that understanding how money works and making informed financial decisions can lead to financial success.
+Extended Time Horizons: The speaker emphasizes the importance of having extended time horizons in business. He believes that by thinking about where he wants to be in five years, he can make better decisions and have a more disciplined approach to growth and value creation.
+
+Value-Based Investing: The speaker suggests reading about value-based investing and how companies do turnarounds. He believes that this can provide valuable insights into improving your own business.
+
+Tracking Key Performance Indicators (KPIs): The speaker discusses how private equity buyers create a 100-day plan when they buy a business, focusing on two to three KPIs and how to accurately track them. He mentions that one of the main KPIs they track is excess cash flow, which he believes is something that should be tracked more in businesses.
+
+Focus on a Few Things: The speaker suggests that businesses should focus on a few key operational objectives that will provide the most value. He believes that this approach can create consistency in operations, reduce waste, and provide a more consistent experience for customers.
+
+Investing in Skills: The speaker advises investing in skills that will be valuable in the future. He suggests setting action-based goals, such as developing certain skills within a certain time frame, rather than setting monetary goals.
+
+Avoiding the Obsession with Happiness: The speaker shares his personal experience of obsessing over happiness and how it led to him feeling deficient. He suggests that disregarding happiness can lead to more contentment and fulfillment.
+
+Managing Expectations: The speaker discusses the importance of managing expectations and how unfulfilled expectations can lead to unhappiness. He suggests setting reasonable expectations and focusing on progress rather than outcomes.
+
+Turning Off Media: The speaker recommends turning off all media as he believes it does not contribute to making more money or preparing for what is to come. He suggests that if there is anything major happening, you will find out without needing to surf the news.
+One Product, One Avatar, One Channel: To get to a million in revenue, focus on one product, one avatar (target audience), and one channel. This simplifies your business and allows you to concentrate all your efforts on solving one problem for one group of people.
+
+Value-Centric Approach: Provide so much value that your audience feels unreasonable or guilty to not pay you. This approach triggers a sense of reciprocity in people. If you give enough, you don't have to ask.
+
+Goodwill Compounds: Goodwill in the marketplace compounds faster than revenue. Providing value to your audience creates goodwill, which can multiply faster than your asking. If you can hold off long enough, you won't ever need to ask; you can just keep giving.
+
+Improve the Product: If you're not confident enough that you're going to be able to deliver on your promises, then fix the product. If the product isn't good, you're never going to make a ton of money because you're never going to be able to market it effectively.
+
+Lifetime Gross Profit Per Customer: To scale from three to ten million, you don't really need to change anything besides making sure the customers are more valuable. You can do this by improving the product, reducing churn, optimizing pricing, or adding a single high-value additional service level.
+
+Invest in Your Customers: If the only way you could get new customers is if your existing customers bring you more customers, how different would the experience you have with your customers look? If you can think right now how different it would look, change that now, and then they will come.
+
+Mission: Alex's current mission is to help businesses that are doing about five million and up get to 30-50 million dollars a year. He and his team function as a makeshift executive team, injecting talent and experience into these businesses to help them scale.
+
+Writing the Book: Alex wrote the book to make the best internet marketing business that exists. His goal is to provide so much value for free that if someone wants to get to the next level, they've already proven themselves able to execute on the concepts he gave away for free.
+
+1.	I’ve noticed that every successful business that is able to scale and be self-sustainable, is essentially a conglomeration of other “companies” that work synergistically to drive growth. 
+
+2.	Right? These companies all have a small team of superstars; someone in charge of acquisition, someone in charge of delivery, someone in charge of operations and shared services. 
+
+3.	These are specific skills that I simply do not possess, and I’ve been pretending that I do because I do not have the resources to hire such specialists.
+
+4.	I am missing out on that high level talent; those leaders and drivers that make a successful company. I need someone to solve problems, provide solutions, all while lowering my workload. 
+
+5.	In the entrepreneur world we hear a term thrown around a lot, OPM, Other Peoples Money. 
+
+6.	And sure, that does help, but there is a term that I came up with that I think is equally (if not more) beneficial than OPM, and that is OPE, 'Other Peoples Expertise'. 
+
+7.	I think being able to leverage other peoples expertise and time is really how you succeed, or "Ring the register".
+
+8.	Before I became a business owner, I had no idea about all the little things that have major consequences: i.e legal, finances, taxes, etc. 
+
+9.	These are all things that I have no skills in.
+
+10.	It is abundantly clear to me that without that superstar team, without talent, you will fail.
+
+11.	I can't do everything. I need to be able to focus on the skills that I have, and I need to be able to leverage them. 
+
+12.	The reason why my company was born is because I was a trustworthy voice in my community. 
+
+13.	I was an influencer, and I know how to talk to those within my niche. 
+
+14.	As a result, my company just came together organically. 
+
+15.	I need to be an active actor in my community, and I need to be submersed so I can understand what my niche market is hungry for. 
+
+16.	Fortunately, with recent AI developments – we do not need to hire expensive talent. 
+
+17.	What used to cost businesses hundreds of thousands of dollars can now be implemented at a fraction of the cost using AI technology. 
+
+18.	However, I do not have the resources to pay for this technology.
+
+19.	There an old saying “More money, more problems”, and you can see that when our business began to take off – is when we started running into more ‘problems’. To which we had to dedicate ourselves to in order to survive, and now we are just burning ourselves out.
+
+20.	Our skills are no longer being leveraged because there is not enough time to do it all, and we are suffering because of it. 
+
+21.	Arnold Schwarzenegger said “call me what you want, call me a loser, call me a failure, but never call me self-made” and this is because he recognized that there were many people in his life that were a catalyst for his success. 
+
+22.	And this can be seen in the majority of successful businesses, whether it be from a family loan, donation, grant, connections, or just nepotism.
+
+23.	In Sam Waltons book ‘Made in America’ he said that Walmart had explosive growth when he began the employee stock option program. 
+
+24.	This is tantamount to the strategy that I discovered and want to implement, I am calling it 'Algorithm Battle Marketing'.
+
+25.	In all of my experiences, and from what I observed – I noticed that the more money I can make for other people, then the more money I end up making for myself. 
+
+26.	For example, I was most successful when I was paying an influencer commissions to represent my brand. 
+
+27.	The problem with influencers is that they are unreliable, and they are very expensive, and sometimes the ROI is not great because their audience either doesn’t align with the product/brand, or they don’t like seeing their favorite person selling them an advertisement. 
+
+28.	No body likes to watch advertisements. People can’t wait to hit the skip button when an advertisement starts playing. Advertisements are annoying and insincere. 
+
+29.	That’s why I want to focus less on influencers and less on paid advertisement, and more on 'Algorithm Battle Marketing' (AGM).
+
+30.	AGM utilizes something that I like to call “Phantom equity” which can be leveraged with User Generated Content Creators (UGC). 
+
+31.	UGC's are smaller independent individuals who produce content for your brand at an affordable price. 
+
+32.	In this case, I want to do something that has never been done. 
+
+33.	Essentially offer UGC's a piece of the company without giving up any equity. 
+
+34.	Basically, you hire them on retainer and pay them a commission of the sales they generate. 
+
+35.	You can also convert customers/followers to UGC's. UGC's do not have to buy their way in like an investor. 
+
+36.	In fact, we pay them to take a piece of our business. 
+
+37.	However, the secret sauce is to leverage UGC’s and the power of viral social media marketing. 
+
+38.	What I am proposing is to hire UGC’s to set up social media accounts that are a variant of the company’s name. 
+
+39.	And they will make one piece of content for each social media platform every day. 
+
+40.	This effectively forces you into the algorithm because you can have 100’s or 1,000’s of variant accounts reaching millions of people. 
+
+41.	It is like turning on the TV and every channel is about your brand. 
+
+42.	This is what I call 'Algorithm Battle Marketing'. 
+
+43.	Businesses are seeing the most success on Tik Tok right now. 
+
+44.	Tik Tok follows the Equal Opportunity rule, which means whether you’re the Rock or an average Joe Schmoe, you will have the same exposure to millions of people. This makes it very easy to go viral. (Provide a viral marketing statistic here). 
+
+45.	Now, why can’t someone just open up 100’s of social media accounts? Because these platforms monitor 'algorithm hacking' by tracking IP's and they will shut you down for having multiple accounts. This effectively damages your brand and limits exposure.
+
+46.	We will monitor our UGC's with an advanced AI CRM program which we can discuss further at a later time, and it will allow us to track all of our UGC’s, their work, and their sales.
+
+47.	We will also utilize Discord, and build a community for all of our UGC’s. This will provide a location to train the UGC’s and provide them with viral content to repurpose. We will also provide incentives by offering prizes for who can sell the most, and who can recruit the most UGC’s etc.
+
+48.	AGM is the most cost effective, least invasive, and most successful form of marketing - in my opinion (provide supporting statistic here).
+
+49.	The secret sauce to AGM is having a strong niche and good product. 
+
+50.	This is something that I’ve had since 2019, but I need to take it to the next level. 
+
+51.	I need a manufacturer who can handle volume so we can increase profit margin. Right now, my manufacturer charges me his lowest price, and it is still not enough to thrive. 
+
+52.	In regards to my products, I have a very innovative and detailed product line up that I’d like to discuss with you further during our next call.
+
+53.	What I’ve learned about “products” is that you have to de-commoditize them. Sub-consciously, the customer wants to make a value-based decision, not a price-based decision. Customers can also compare prices with other companies, but what they are really sold on – is the value that you bring.
+
+54.	Again, this what I saw during my most successful months. 
+
+55.	I was actively engaging with my community and selling my value, and we had the help of an influencer which has the same effect. 
+
+56.	People don’t want to buy a product, they want to buy you. 
+
+57.	This brings me back to the secret sauce, the power of having a starving audience, a niche. 
+
+
+58.	For example, if I were to write a book called ‘time management’ then people may feel comfortable paying $5 for it. But if I took that same book and changed only the title to “time management for becoming a millionaire” people would be willing to pay $500 for that information. It’s the same content, but since it is ‘exclusive’ to them, they’ll pay more, and it increases your value. 
+
+59.	Businesses compete on price or value. Right now, I am so overwhelmed that I’m not competing on anything. 
+
+60.	My current strategy is to look at the market place, see what everyone else offers, take the average, go slightly below to remain “competitive”, and provide what my competitor offers with a “little more”. And I end up at a value proposition of “more for less”, and this is a losing strategy.
+
+61.	I think Warren Buffet said “It is far more important what boat you’re in, then how hard you row”, and when you apply this logic to niche markets – well then, that is how you "ring the register". Right now, we’ve got the tide behind us but we just need more wind to push us in the right direction.
+
+62.	With a facelift, we can increase the price and profit margin of our products, increase the emotional investment of the customer, and get them as emotionally invested as possible. 
+
+63.	If someone is more emotionally invested, then they will perceive the product as being more valuable.
+
+64.	Therefore, the price confers value to the product. 
+
+65.	There was a study where researchers used 3 bottles of wine; one cheap, one medium price, and one expensive. The subjects ranked the wines as they were described to them, and they confirmed that the more expensive wine was better. But here’s the kicker, all 3 bottles contained the exact same wine (reference or cite study here). 
+
+66.	This got me thinking, that customers will have better results if the product is sold to them at a premium price. And that's the vibe I am going for. I want to be a premium brand, backed by science.
+
+67.	And of course, I have a detailed vision of how I want this face lift to look, but will discuss that with you over our next phone call.
+
+68.	But all of this to say, that I need to hone in on my skills and do what I am good at. 
+
+69.	On a personal level, if I am not reminded every day of the good that I am doing, and the impact that I am having, and that my customers are having good results, then I feel completely lost and completely demotivated. 
+
+70.	And if I can focus on my skills, then I can assure you that I will convert all customers and all prospects into lifelong profit; because they will believe that I can help them, and that belief has to start with me. 
+
+71.	A successful sale is simply a transfer of conviction from me to them through a build of trust. 
+
+72.	I must increase my value if I want to become a premium brand with premium prices. 
+
+73.	And this value and trust is so important in terms of increasing Life Time Value of a customer (LTV). 
+
+74.	I think LTV is the most important KPI and most often overlooked. 
+
+75.	Think about it, if we can increase the LTV and multiply the amount of profit we make on each prospect, then we will have more resources compared to our competition to provide the value that was promised to our prospect, over and over again. 
+
+76.	Therefore, providing a superior product in the market place. 
+
+77.	Having a strong LTV for a consumable health product, should yield very low churn rates, and very high returning customer rates.
+
+78.	The goal of a Branding is to get all eyes on you and acquire customers at the lowest cost.
+
+79.	Brand means to make associations with things that are intangible and things that are tangible and unknown.
+
+80.	My goal is to associate my products with the intangible ideas that I want the prospect to believe about me. i.e If you see a picture of me with ripped abs, then you will associate me with fitness, and if you didn’t know who I was then you would assume that I have something to do with fitness.
+
+81.	For a while, I was wondering why my business isn’t making money any more.
+
+82.	I try to reduce concepts down to their most simple form, and when I think of a businesses success – I’ve noticed that sometimes success is as simple as an ‘Input - Output’ equation.
+
+83.	And that’s why when you’re having success, then it is important to zoom in on those analytics and repeat them over and over again (if applicable).
+
+84.	A business is just a solution to a problem, right? A good business is the answer or fix to a specific problem within that industry. And making sure the math lines up of course.
+
+85.	And to be a successful business owner, I believe that you should have expertise in that industry, in that niche. Because now you’re a member, you’re a customer, you understand the product, you understand the community, you can speak the lingo, and you can solve issues and predict future ones.
+
+86.	And if you are an expert in your industry, then word of mouth becomes another pathway to virality. 
+
+87.	People think failure is a bad thing, and I’ve come to realize that failure is actually your greatest strength, your greatest success. 
+
+88.	There’s no need to reinvent the wheel, as long as you do it better, and are more popular, and provide more value than the competition – then you will make money. You will be successful.
+
+89.	I was discouraged and ashamed when my business began losing traction, and this caused me to go into fight or flight mode, and I tried to rush results. (creating a new business) 
+
+90.	I was used to the success, and I was afraid to have a failure on my perfect record. 
+
+91.	Your work works on you more than you work on it, and I think entrepreneurs avoid this concept because it shines a light on your struggles. And for some reason we equate struggle with failure, when in reality a struggle is either a sign of progress or an opportunity to progress.
+
+92.	As long as you are learning, you are progressing, and progress is success.
+
+93.	Business owner become experts based on how many failures they’ve had.
+
+94.	People become entrepreneurs, because we think that this is a short cut to success. But there is A LOT to learn about a business: set up a bank account, find a merchant, process an order, but most importantly learning to create a customer journey. And not just focus on your journey.
+
+95.	Some times all you have to do is work with what you got and strategically optimize it, by learning and understanding business metrics and consumer psychology.
+
+96.	There’s no short cut to earn a PHD, and it’s the same in business except you don’t have a teacher a lot of the times. So you have to do your time under the bar.
+
+97.	And this is why OPE is so valuable, because there’s a lot to learn from them.
+
+98.	Sure you can get a predatory loan from a bank, but only if your business is over 5 years old, and only if you’ve banked with them for 2 years, and only if you’re doing 5 million or more in annual sales.
+
+99.	It is extremely difficult to get capital or funding that makes sense, and wont tank your business.
+
+100.	But capital isn’t the answer like most people think. You can still fuck up while having capital, and because you have the capital – these fuck ups are much more expensive to fix.
+
+101.	Our biggest restraint is working capital and resources. And with an infusion, and expert advice – we should be doing over a million a month in sales. 
+
+102. Leverage the power of AI. I no longer need to hire people because AI can replace the jobs of humans and do it more accurately.
+
+I started an Instagram account, at the end of 2017, documenting my life as a vegan “Body Builder” and it took off. I became popular fast, and I became a trust worthy source of information for vegans who wanted to be jacked and healthy. Cause that was kind of a new thing, it still is.
+I never thought I would start a business or sell anything; I just wanted to teach and influence. I was showing off my own recipes and highlighting the nutrients and benefits, and I would show off my workout routine and my supplement stack. 
+Mind you, these supplements weren’t something you can buy in stores. I was ordering capsules of a rare herbs, just a single ingredient capsules, and I would combine a couple different capsules to form a “blend” that had a specific purpose and wasn’t available anywhere else. 
+Then I found out I can order bulk powders and a capsule press, and I started pressing my own capsules. And my goal was to teach people how they can make their own blends using my methods. 
+Well, the next thing you know - I had people private messaging me left and right. They wanted to buy my blends, and they wanted me to make blends for them, and so that’s what I did. I was pressing capsules by hand, and I was making hundreds of sales. 
+In 2018, we finished that year making only 10k
+Eventually I made enough money to hire a manufacture to produce my blends for me because I was spending all day long pressing capsules in my mother’s living room. And I was losing engagement with my following and losing subscribers. And that was hard because that’s what I enjoyed doing, I liked engaging with my industry and adding value, my physical being became a brand and the supplements were just a bonus. But I was unable to find the perfect balance.
+So moving into 2019, I popularized an ingredient called Sea Moss. Which I learned about it in the holistic school I was enrolled in, and I thought it was an amazing powerful superfood that had a profound effect on “increasing testosterone”. And I thought my following of fitness advocates would appreciate a short cut to better testosterone. It is a strange sea weed that you soak in water and then blend into this apple sauce consistency. And it is rank! It tastes horrible. And I thought well I can’t sell this, so I might as well talk about it. But my followers were practically begging me for it, I pretty much became the “Sea Moss King”, so I figured what the hell – I can make a lot of money if I could get a quality extract powder and sell it in a capsule, since it is unpalatable. 
+So I had my manufacturer run a small batch of a new blend with Sea Moss being the main ingredient. It sold out almost immediately, and we finished 2019 with 130k in sales. This was a giant step forward from the previous year.
+In 2020, a friend of mine, Krystal, who I met on Instagram – she went viral. She was in the same niche as me and she was documenting her life journey. And one of her videos went viral, and she gained like 100k followers overnight. And I asked her to shout me out, and she happily promoted my brand and my product. And we finished 2020 at 150k, and then 2021 was about 200k. Of course, we paid Krystal a percentage of the sales she generated.
+Around that time, with such an influx, Brittany and I were so busy learning the business and spending our time doing customer service – that we didn’t have time to make content to promote or engage with our following, so having Krystal was a game changer.
+But Krystal became so popular and so busy, and ultimately she became unreliable avenue for marketing. She never said it, but I think if she had more skin in the game, then she would’ve been more motivated to continue promotion. We just wouldn’t have been able to afford her. In fact, looking at out analytics, we were never able to afford her.
+Closing out 2021, I’ll spare the details, but Brittany and I were living with family and it just became hostile and toxic and we high tailed it out of there. We just couldn’t conduct business.
+Mind you this is during our sales declining, during the height of the pandemic, that we now had a car note and a 3,000 monthly rent. 
+I’m sure you can guess where this is going.
+For a while, I was wondering why my business isn’t making MORE money. Our LTV was strong, Churn Rate was low, our profit margins were decent. Or so I thought.
+And with so much going on, we over looked the necessity of budgeting, not like we really had a choice. Ya know we had to pay bills. Our thought was – if we can’t support ourselves then we can support the business. What do we know?
+I was discouraged and ashamed when the business began losing traction, and I really didn’t have any more strategies or capital to work with.
+Unfortunately, my strategy became, and still is: 
+* To look at the market place.
+* See what everyone else offers.
+* Take the average.
+* Go slightly below to remain “Competitive”.
+* And provide what my competitor offers with just a “little more”.
+And that’s essentially a value proposition of “more for less”. Sounds good right?
+Well, NO! This is a losing strategy.
+And this still our current strategy. We do not have the capital, or resources, to implement another strategy, which is frustrating because now we actually have a winning strategy, and I think you’ll agree.
+Leveraging AI
+Ya know, I was so ashamed when I first met you because I felt like a failure, and I pitched you a new and similar company because I didn’t want you to see our downfall. Hell, I didn’t want to see it anymore. 
+But after our discussion, I heard you for weeks in the back of my head, “Ring the register”. And I was trying to remember all the questions you were asking me, to gauge how you think as a businessman. Because clearly, you’re doing something right. 
+I thought my product and mission was so important that anyone would see the value in it. But I realized you were essentially inquiring about my KPI’s. And that’s because business is a simple input / output equation. What are we doing to Ring that Register?
+I’ll admit, I thought I was a “bad guy” if I valued money more than my product or brand. But that’s because I just didn’t understand business. I had such a fear of business “oh god there’s so much I don’t know, and the taxes, and the bank accounts, do I need insurance, or a Wyoming LLC”. It was overwhelming.
+But at the end of the day, the only reason why I am doing this is to make that register ring. I want to make as much money as I possibly can doing what I like to do. And then I’d like to explore real estate and index funds. I’m trying to create generational wealth for when Brittany and I have a family.
+And where I’m at now, I realize my that “failures” that I was trying to hide from - are my greatest strengths. Because failure is learning and learning is progress and PROGRESS IS SUCCESS. Failures create experts.
+And I didn’t realize that your work works on you more than you work on it, you just gotta be willing to look at it.
+So where am I at? Well, I have a strong foundation, proof of concept, unique formulas, a good look, and a strong following. And I need to focus on my skillset and my strengths that got me here. Because people weren’t just buying my product, they were buying me.
+And what I’ve learned about “products” is that you have to de-commoditize them. Because subconsciously the customer wants to make a value-based decision and not a price-based decision. Customers can compare prices all they want, but what they are really sold on and what their willing to pay a premium for, is the value that I bring them.
+And I realized I have to leverage that the input / output equation. Because if something is making you money, and its working for you, then all you gotta do is rinse and repeat that process. And looking at our analytics, it’s clear as day that we made the most money when Brittany and I leveraged our skills and our individual expertise.
+A successful business is nothing but a solution to a problem within a certain industry. Luckily, I know my industry very well, and I know how to leverage that. Also, I developed relationships with major players in my industry. And I just have to leverage that too.
+I’ve noticed that all of these successful businesses that are self-sustainable, are just conglomerate of small businesses that work synergistically to drive growth. Right? These companies always have a team of rockstars; 
+* Someone in charge of acquisition.
+* Someone in charge of delivery.
+* Someone in charge of operations and shared services.
+* Someone for marketing
+* Someone for fulfilment
+I need to be a rockstar at what I do, and I’m missing that team of high level talent, the skills and expertise that I don’t have. Those leaders and drivers that make a company successful. Someone to solve problems, and provide solutions. I can’t do everything because I don’t know everything.
+There’s a great Arnold Shwarzenegger quote, he said “call me what you want, call me a loser and a failure, but never call me self-made. Because I’m not”. And that’s kinda where I’m at right now.
+We scaled so fast, and it didn’t allow us the time we needed to develop or find the expertise in those areas that make a business successful. I mean, I think we did pretty good and we’ve been hanging on for 4 years. But going back to the input / output equation, we’re just spinning our wheels and burning out.
+Our skills are no longer be leveraged, and we are spread to thin.
+
